@@ -1,0 +1,9 @@
+crn, code, section, days, start_time, end_time, section_tie
+35574, SYSC3110, A, Wed Fri, 13:05, 14:25, none
+35577, SYSC3120, A, Wed Fri, 11:35, 12:55, none
+35585, SYSC3310, A, Mon Wed, 18:05, 19:25, none
+35586, SYSC3310, B, Mon Wed, 8:35, 9:55, none
+35613, SYSC4001, A, Tue Thu, 13:05, 14:25, none
+35617, SYSC4001, B, Tue Thu, 10:05, 11:25, none
+32357, ECOR2050, A, Mon Wed, 10:05, 11:25, None
+32358, ECOR2050, B, Tue Thu, 8:35, 9:55, none
